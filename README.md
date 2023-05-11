@@ -6,11 +6,7 @@
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것
 
 - Email : jang34631@gmail.com
-
-
 - Interests : Vision, NLP, Time Series
-
-
 - Education  
 
 |**학력**|**기관**|**전공**|**기간**|**비고**|
@@ -20,7 +16,7 @@
   
 - Publications
 
-|**번호**|**논문제목**|**출판처**|**년도**|
+|번호|**논문제목**|**출판처**|**년도**|
 |:---|:---|:---|:---|
 |1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|  
   
