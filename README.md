@@ -1,5 +1,13 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
+
+### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
+-
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
