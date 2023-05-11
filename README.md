@@ -21,7 +21,7 @@
 |1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|
 
 - Projects & Prize
-
+<img width="368" alt="image" src="https://github.com/jang3463/jang3463/assets/70848146/9ad0720d-06f8-4cb3-9c8a-6efd0e2990eb">
 |주|대회명|순위|상위|수상|
 |:---|:---|:---|:---|:---|
 |KT-ETRI|네트워크 지능화를 위한 인공지능(AI) 해커톤|2/180|1.11%|최우수상|
