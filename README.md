@@ -23,7 +23,7 @@
 - Projects & Prize
 
 
-<img width="700" height="300" alt="image" src="https://github.com/jang3463/jang3463/assets/70848146/9ad0720d-06f8-4cb3-9c8a-6efd0e2990eb">
+<img width="800" height="150" alt="image" src="https://github.com/jang3463/jang3463/assets/70848146/9ad0720d-06f8-4cb3-9c8a-6efd0e2990eb">
 
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
