@@ -1,13 +1,9 @@
-<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-
-
 ### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
--
+- 늘 자기 주도적 성장을 추구하며, 목표 4가지는 다음과 같습니다.
+- 1) Vison, NLP, Tabular data 가리지 않고, 문제 해결을 위한 Research 능력을 꾸준히 기르는 것
+- 2) 다재다능한 Data Scientist로 기업이 새로운 역량을 요구할 때 준비되어 있는 것
+- 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
+- 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
