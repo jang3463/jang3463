@@ -12,13 +12,13 @@
 |학력|기관|전공|기간|비고|
 |:---|:---|:---|:---|:---|
 |석사|경북대학교|데이터사이언스|2022.03~2024.02|시각지능 연구실(지도교수:[최장훈 교수님](https://janghoonchoi.github.io/))|
-|학사|경북대학교|경영학/경제학|2012.03~2020.02||
+|학사|경북대학교|경영학/경제학|2012.03~2020.02||  
   
 - Publications
 
 |번호|논문제목|출판처|년도|
 |:---|:---|:---|:---|
-|1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|
+|1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|  
   
 - Projects & Prize
 
