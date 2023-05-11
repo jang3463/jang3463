@@ -9,14 +9,14 @@
 - Interests : Vision, NLP, Time Series
 - Education
 
-|학력|기관|전공|기간|비고|
+|**학력**|**기관**|**전공**|**기간**|**비고**|
 |:---|:---|:---|:---|:---|
 |석사|경북대학교|데이터사이언스|2022.03~2024.02|시각지능 연구실(지도교수:[최장훈 교수님](https://janghoonchoi.github.io/))|
 |학사|경북대학교|경영학/경제학|2012.03~2020.02||  
   
 - Publications
 
-|번호|논문제목|출판처|년도|
+|**번호**|**논문제목**|**출판처**|**년도**|
 |:---|:---|:---|:---|
 |1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|  
   
@@ -26,7 +26,7 @@
 <img width="368" alt="image" src="https://github.com/jang3463/jang3463/assets/70848146/9ad0720d-06f8-4cb3-9c8a-6efd0e2990eb">
 
 
-|주|대회명|순위|상위|수상|
+|**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
 |KT-ETRI|네트워크 지능화를 위한 인공지능(AI) 해커톤|2/180|1.11%|최우수상|
 |DACON|예술 작품 화가 분류 AI 경진대회|5/215|2.32%|수상|
