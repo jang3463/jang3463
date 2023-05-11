@@ -22,7 +22,7 @@
   
 - Projects & Prize
 
-<img width="670" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
+<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
