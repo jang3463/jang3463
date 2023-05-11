@@ -5,9 +5,9 @@
 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것
 
-- Email : jang34631@gmail.com
-- Interests : Vision, NLP, Time Series
-- Education
+- Email : jang34631@gmail.com  
+- Interests : Vision, NLP, Time Series  
+- Education  
 
 |**학력**|**기관**|**전공**|**기간**|**비고**|
 |:---|:---|:---|:---|:---|
@@ -22,7 +22,7 @@
   
 - Projects & Prize
 
-<img width="730" height="220" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
+<img width="700" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
