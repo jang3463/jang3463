@@ -8,10 +8,6 @@
 - Email : jang34631@gmail.com
 
 
-
-
-
-
 - Interests : Vision, NLP, Time Series
 - Education  
 
