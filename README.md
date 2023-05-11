@@ -6,6 +6,8 @@
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것
 
 - Email : jang34631@gmail.com
+
+
 - Interests : Vision, NLP, Time Series
 - Education  
 
