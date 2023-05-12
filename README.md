@@ -41,11 +41,11 @@
 |DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
 |DACON|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
 |DACON|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
-|KAGGLE|MOAI 2022 Body Morphometry AI Segmentation|4/17|23.52%|-|
+|KAGGLE|[MOAI 2022 Body Morphometry AI Segmentation](https://drive.google.com/file/d/1VoScXu3rhY17xAweH_dquwsuD7pl7RhZ/view?usp=share_link)|4/17|23.52%|-|
 |KT|[KT GenieLabs Dev Challenge 2022](https://github.com/jang3463/KT-dev-challenge-2022)|-|본선진출|-|
-|기상청|날씨 빅데이터 콘테스트 2022|-|-|최우수상|
+|기상청|[날씨 빅데이터 콘테스트 2022](https://drive.google.com/file/d/1EIHObh7R26zbIKFnUeogCv2RQK7F733S/view?usp=share_link)|-|-|최우수상|
 |NIA|스마트 안전 해커톤|-|-|대상|
-|NIA|공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트|-|-|우수상|
+|NIA|[공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트](https://drive.google.com/file/d/1ajrsqIYZuT8GhATn50aZ6epmB-4AhSHU/view?usp=share_link)|-|-|우수상|
 
 
 DACON Total Ranking 상위 0.02%
