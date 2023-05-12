@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
 늘 자기 주도적 성장을 추구하며, 목표 4가지는 다음과 같습니다.
 1) Vison, NLP, Tabular data 가리지 않고, 문제 해결을 위한 Research 능력을 꾸준히 기르는 것
