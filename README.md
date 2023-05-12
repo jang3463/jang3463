@@ -31,11 +31,11 @@
 |DACON|ChatGPT 활용 AI 경진대회|5/532|0.93%|수상|
 |통계|통계데이터 인공지능 활용대회 |6/395|1.52%|우수상|
 |DACON|손동작 제어 인식 AI 경진대회|8/216|3.70%|수상|
-|DACON|자동차 충돌 분석 AI 경진대회|24/449|5.34%|-|
-|DACON|2023 교원 그룹 AI OCR 챌린지|26/430|6.04%|-|
+|DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
+|DACON|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
 |DACON|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
 |KAGGLE|MOAI 2022 Body Morphometry AI Segmentation|4/17|23.52%|-|
-|KT|KT GenieLabs Dev Challenge 2022|-|본선진출|-|
+|KT|[KT GenieLabs Dev Challenge 2022](https://github.com/jang3463/KT-dev-challenge-2022)|-|본선진출|-|
 |기상청|날씨 빅데이터 콘테스트 2022|-|-|최우수상|
 |NIA|스마트 안전 해커톤|-|-|대상|
 |NIA|공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트|-|-|우수상|
