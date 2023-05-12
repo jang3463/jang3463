@@ -18,13 +18,11 @@
 
 - Publications
 
-|번호|**논문제목**|**출판처**|**년도**|
+|**번호**|**논문제목**|**출판처**|**년도**|
 |:---|:---|:---|:---|
 |1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|  
   
 - Projects & Prize
-
-<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
@@ -41,6 +39,8 @@
 |기상청|날씨 빅데이터 콘테스트 2022|-|-|최우수상|
 |NIA|스마트 안전 해커톤|-|-|대상|
 |NIA|공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트|-|-|우수상|
+
+<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
 
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
