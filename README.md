@@ -41,7 +41,7 @@
 |NIA|공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트|-|-|우수상|
 
 
-DACON Total Ranking 21/81500 상위 0.02%
+DACON Total Ranking 상위 0.02%
 
 
 <img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
