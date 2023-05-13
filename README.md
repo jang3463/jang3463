@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
-Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 경험하는 것이 필요하다고 느꼈습니다.  
+Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 경험하는 것이 필요하다고 생각합니다.  
 이를 위해 Kaggle 및 Dacon 대회에 참여하고 수상한 경험이 있으며, 현재 Dacon 랭커로 활동하고 있습니다.  
 
 
