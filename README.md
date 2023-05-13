@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
+Data Scientists가 되기위해서는 다양한 데이터 및 AI/ML 기술을 경험하는 것이 필요하다고 느꼈습니다.  
+이를 위해 Kaggle 및 Dacon 대회에 참여하고 수상한 경험이 있으며, 현재 Dacon 랭커로 활동하고 있습니다.  
 늘 자기 주도적 성장을 추구하며, 목표 4가지는 다음과 같습니다.
 1) Vison, NLP, Tabular data 가리지 않고, 문제 해결을 위한 Research 능력을 꾸준히 기르는 것
 2) 다재다능한 Data Scientist로 기업이 새로운 역량을 요구할 때 준비되어 있는 것
