@@ -36,7 +36,7 @@
 |KT-ETRI|[네트워크 지능화를 위한 인공지능(AI) 해커톤](https://github.com/jang3463/KT-ETRI-AI-Competition)|2/180|1.11%|최우수상|
 |DACON|[예술 작품 화가 분류 AI 경진대회](https://github.com/jang3463/dacon_artist)|5/215|2.32%|수상|
 |DACON|[ChatGPT 활용 AI 경진대회](https://github.com/jang3463/dacon_chatgpt)|5/532|0.93%|수상|
-|통계청|통계데이터 인공지능 활용대회 |6/395|1.52%|우수상|
+|통계청|[통계데이터 인공지능 활용대회](https://github.com/jang3463/KOSTAT-AI-Competition)|6/395|1.52%|우수상|
 |DACON|손동작 제어 인식 AI 경진대회|8/216|3.70%|수상|
 |DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
 |DACON|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
