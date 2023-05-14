@@ -16,24 +16,24 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것
 
-- Email : jang34631@gmail.com
+- **Email** : jang34631@gmail.com
 
 
-- Interests : Vision, NLP, Time Series
-- Education  
+- **Interests** : Vision, NLP, Time Series
+- **Education**  
 
 |**학력**|**기관**|**전공**|**기간**|**비고**|
 |:---|:---|:---|:---|:---|
 |석사|경북대학교|데이터사이언스|2022.03~|Visaul Intelligence Lab (지도교수:[최장훈 교수님](https://janghoonchoi.github.io/))|
 |학사|경북대학교|경영학/경제학|2012.03~2020.02||
 
-- Publications
+- **Publications**
 
 |**번호**|**논문제목**|**출판처**|**년도**|
 |:---|:---|:---|:---|
 |1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution](https://drive.google.com/file/d/1rPoh3MN39legc0Sks8baSI1_4nSmdXP4/view?usp=share_link)|대한전자공학회|2023|  
   
-- Projects & Prize
+- **Projects & Prize**
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
