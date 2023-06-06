@@ -52,10 +52,10 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |NIA|[공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트](https://drive.google.com/file/d/1ajrsqIYZuT8GhATn50aZ6epmB-4AhSHU/view?usp=share_link)|-|-|우수상|
 
 
-**DACON Total Ranking 상위 0.02%**
+**DACON Total Ranking 상위 0.09%**
 
 
-<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/6541dbd7-b3cb-4c35-8477-eed0a36ca07b">
+<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/1568e89b-1df7-45ca-9ce5-929bae21043f">
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
