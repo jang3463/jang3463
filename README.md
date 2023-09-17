@@ -31,7 +31,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 
 |**번호**|**논문제목**|**출판처**|**년도**|
 |:---|:---|:---|:---|
-|1|[Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution]|대한전자공학회|2023|  
+|1|Pixel-wise Adaptive Meta-Learning for Single Image Super Resolution|대한전자공학회|2023|  
   
 - **Projects & Prize**
 
