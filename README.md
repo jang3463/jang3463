@@ -57,7 +57,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 **[DACON Total Ranking](https://dacon.io/ranking) 상위 0.09%**
 
 
-<img width="665" height="200" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/1568e89b-1df7-45ca-9ce5-929bae21043f">
+<img width="800" height="300" alt="dacon2" src="https://github.com/jang3463/jang3463/assets/70848146/1568e89b-1df7-45ca-9ce5-929bae21043f">
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
