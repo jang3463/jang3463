@@ -51,6 +51,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |KT|[KT GenieLabs Dev Challenge 2022](https://github.com/jang3463/KT-dev-challenge-2022)|-|본선진출|-|
 |기상청|[날씨 빅데이터 콘테스트 2022](https://drive.google.com/file/d/1EIHObh7R26zbIKFnUeogCv2RQK7F733S/view?usp=share_link)|-|-|최우수상|
 |NIA|스마트 안전 해커톤|-|-|대상|
+|NIA|옛한글 OCR 인공지능 학습데이터 해커톤|-|-|최우수상|
 |NIA|[공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트](https://drive.google.com/file/d/1ajrsqIYZuT8GhATn50aZ6epmB-4AhSHU/view?usp=share_link)|-|-|우수상|
 
 
