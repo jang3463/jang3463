@@ -24,7 +24,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 
 |**학력**|**기관**|**전공**|**기간**|**비고**|
 |:---|:---|:---|:---|:---|
-|석사|경북대학교|데이터사이언스|2022.03~|Visaul Intelligence Lab (지도교수:[최장훈 교수님](https://janghoonchoi.github.io/))|
+|석사|경북대학교|데이터사이언스|2022.03~|[Visaul Intelligence Lab](https://sites.google.com/view/knu-vilab) (지도교수:[최장훈 교수님](https://janghoonchoi.github.io/))|
 |학사|경북대학교|경영학/경제학|2012.03~2020.02||
 
 - **Publications**
