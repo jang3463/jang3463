@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 안녕하세요! Data Scientist를 꿈꾸는 장종환입니다. 👋
-Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 경험하는 것이 필요하다고 생각합니다.  
+<!--Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 경험하는 것이 필요하다고 생각합니다.  
 이를 위해 Kaggle 및 Dacon 대회에 참여하고 수상한 경험이 있으며, 현재 Dacon 랭커로 활동하고 있습니다.  
 
 
@@ -14,7 +14,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 1) Vison, NLP, Tabular data 가리지 않고, 문제 해결을 위한 Research 능력을 꾸준히 기르는 것
 2) 다재다능한 Data Scientist로 기업이 새로운 역량을 요구할 때 준비되어 있는 것
 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
-4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것
+4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것 -->
 
 - **Email** : jang34631@gmail.com
 
