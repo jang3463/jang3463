@@ -16,16 +16,26 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것 -->
 
+안녕하세요.
+데이터 분석, 인공지능에 관심이 있습니다. 관심이 많은 만큼 다양한 분석대회에 참가하여 배워보고 있습니다.
+
 - **Email** : jang34631@gmail.com
 
 
-- **Interests** : Vision, NLP, Time Series
+- **Interests** : Vision, NLP, Time Series, Data Analysis
 - **Education**  
 
 |**학력**|**기관**|**전공**|**기간**|**비고**|
 |:---|:---|:---|:---|:---|
 |석사|경북대학교|데이터사이언스|2022.03~|[Visaul Intelligence Lab](https://sites.google.com/view/knu-vilab) (지도교수:[최장훈](https://janghoonchoi.github.io/) 교수님)|
 |학사|경북대학교|경영학/경제학|2012.03~2020.02||
+
+- **Experience**  
+
+|**회사**|**부서**|**직책**|**기간**|
+|:---|:---|:---|:---|
+|한화오션|DT솔루션연구추진팀|연구원|2024.01~||
+
 
 - **Publications**
 
