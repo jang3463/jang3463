@@ -56,9 +56,9 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |DACON|손동작 제어 인식 AI 경진대회|8/216|3.70%|수상|
 |한국항공우주연구원|위성영상을 활용한 정유 탱크 탐지|5/53|9.43%|-|
 |DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
-|DACON|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
-|DACON|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
-|DACON, SAMSUNG|[2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation](https://github.com/jang3463/samsung_ai)|20/212|9.43%|-|
+|교원그룹|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
+|포디랜드|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
+|SAMSUNG|[2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation](https://github.com/jang3463/samsung_ai)|20/212|9.43%|-|
 |KAGGLE|[MOAI 2022 Body Morphometry AI Segmentation](https://drive.google.com/file/d/1VoScXu3rhY17xAweH_dquwsuD7pl7RhZ/view?usp=share_link)|4/17|23.52%|-|
 |KT|[KT GenieLabs Dev Challenge 2022](https://github.com/jang3463/KT-dev-challenge-2022)|-|본선진출|-|
 |기상청|[날씨 빅데이터 콘테스트 2022](https://drive.google.com/file/d/1EIHObh7R26zbIKFnUeogCv2RQK7F733S/view?usp=share_link)|-|-|최우수상|
