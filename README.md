@@ -54,7 +54,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |DACON|[ChatGPT 활용 AI 경진대회](https://github.com/jang3463/dacon_chatgpt)|5/532|0.93%|수상|
 |통계청|[통계데이터 인공지능 활용대회](https://github.com/jang3463/KOSTAT-AI-Competition)|6/395|1.52%|우수상|
 |DACON|손동작 제어 인식 AI 경진대회|8/216|3.70%|수상|
-|한국항공우주연구원|위성영상을 활용한 정유 탱크 탐지|5/53|9.43%|-|
+|한국항공우주연구원|위성영상을 활용한 정유 탱크 탐지|5/53|9.43%|수상|
 |DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
 |교원그룹|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
 |포디랜드|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
