@@ -52,6 +52,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 
 |**주관**|**대회명**|**순위**|**상위**|**수상**|
 |:---|:---|:---|:---|:---|
+|SAMSUNG|[2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation](https://github.com/jang3463/samsung_ai)|20/212|9.43%|-|
 |KT-ETRI|[네트워크 지능화를 위한 인공지능(AI) 해커톤](https://github.com/jang3463/KT-ETRI-AI-Competition)|2/180|1.11%|최우수상|
 |DACON|[예술 작품 화가 분류 AI 경진대회](https://github.com/jang3463/dacon_artist)|5/215|2.32%|수상|
 |DACON|[ChatGPT 활용 AI 경진대회](https://github.com/jang3463/dacon_chatgpt)|5/532|0.93%|수상|
@@ -61,7 +62,6 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |DACON|[자동차 충돌 분석 AI 경진대회](https://github.com/jang3463/dacon_car_crash)|24/449|5.34%|-|
 |교원그룹|[2023 교원 그룹 AI OCR 챌린지](https://github.com/jang3463/kyowon_ai_ocr)|26/430|6.04%|-|
 |포디랜드|포디블록 구조 추출 AI 경진대회|32/461|6.94%|-|
-|SAMSUNG|[2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation](https://github.com/jang3463/samsung_ai)|20/212|9.43%|-|
 |KAGGLE|[MOAI 2022 Body Morphometry AI Segmentation](https://drive.google.com/file/d/1VoScXu3rhY17xAweH_dquwsuD7pl7RhZ/view?usp=share_link)|4/17|23.52%|-|
 |KT|[KT GenieLabs Dev Challenge 2022](https://github.com/jang3463/KT-dev-challenge-2022)|-|본선진출|-|
 |기상청|[날씨 빅데이터 콘테스트 2022](https://drive.google.com/file/d/1EIHObh7R26zbIKFnUeogCv2RQK7F733S/view?usp=share_link)|-|-|최우수상|
