@@ -77,7 +77,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjang3463&count_bg=%23473DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjang3463&count_bg=%23473DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
