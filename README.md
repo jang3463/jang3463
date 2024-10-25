@@ -15,7 +15,6 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 2) 다재다능한 Data Scientist로 기업이 새로운 역량을 요구할 때 준비되어 있는 것
 3) 단순 ML개발만 하는 것이 아닌, 비즈니스까지 고려하는 것
 4) 팀원들과 같은 목표와 방향성을 공유하고 함께 나아가는 것 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjang3463&count_bg=%23473DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 안녕하세요.  
 데이터 분석, 인공지능에 관심이 있어, 여러 대회 및 프로젝트에 참가하며 공부하고있습니다.
 
@@ -69,7 +68,7 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 |NIA|옛한글 OCR 인공지능 학습데이터 해커톤|-|-|최우수상|
 |NIA|[공공 빅데이터 분석 청년 인재 양성 실무형 프로젝트](https://drive.google.com/file/d/1ajrsqIYZuT8GhATn50aZ6epmB-4AhSHU/view?usp=share_link)|-|-|우수상|
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjang3463&count_bg=%23473DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 **[DACON Total Ranking](https://dacon.io/ranking) 상위 0.09%**
 
 
@@ -77,7 +76,6 @@ Data Scientist가 되기 위해서는 다양한 데이터 및 AI/ML 기술을 �
 <!--
 **jang3463/jang3463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjang3463&count_bg=%23473DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
